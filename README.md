@@ -1,0 +1,1 @@
+Creating a “Personal Carbon Budget Tracker” for students which aims to foster sustainability awareness and encouraging eco-friendly behaviors among young individuals. This web-based tool will allow students to input their daily activities and track their carbon emissions, providing a personalized approach to understanding their environmental impact.
